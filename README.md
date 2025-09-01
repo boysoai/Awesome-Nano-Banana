@@ -1,5 +1,4 @@
-# Awesome-Nano-Banana
-Awesome Nano Banana Prompts
+# Awesome Nano Banana Prompts
 Google's 2.5 Fast Image ([Nano Banana](https://nanobananaart.net/))
 Master the art of AI image generation with our curated collection of [**Nano Banana prompt**](https://nanobananaart.net/prompts) examples. Learn professional techniques for lightning-fast, high-quality image creation.
 
