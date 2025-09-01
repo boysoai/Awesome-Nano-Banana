@@ -15,5 +15,6 @@ turn this photo into a character figure. Behind it, place a box with the charact
 
 **Remove Face Mask**
 Remove the face mask from the woman in the image
-![Uploading image.png…]()
+<img width="2398" height="1396" alt="image" src="https://github.com/user-attachments/assets/b882e3d5-25b8-47f0-843e-883f78b33ee7" />
+
 
